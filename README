@@ -1,0 +1,14 @@
+# Combining SPARK 2014 and Ada 2012
+
+Prove and then build with checks disabled:
+
+```
+PROVE=true make
+```
+
+Build with checks disabled:
+
+```
+PROVE=false make
+```
+

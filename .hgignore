@@ -1,0 +1,5 @@
+syntax: glob
+
+example.ali
+example.o
+
