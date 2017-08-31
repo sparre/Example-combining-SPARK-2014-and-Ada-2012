@@ -1,4 +1,4 @@
 project Example is
-   for Source_Dirs use ("/tmp");
+   for Source_Dirs use (".");
    for Main use ("example");
 end Example;
